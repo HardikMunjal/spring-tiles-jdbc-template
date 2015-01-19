@@ -1,0 +1,1 @@
+<div class="search">I am the search !</div>
